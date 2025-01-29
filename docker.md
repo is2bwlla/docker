@@ -15,3 +15,13 @@ O docker padroniza as configurações da sua aplicação em um container e ele s
 
 
 
+
+
+
+
+### Não da para usar o Docker Desktop porque ele precisa de licença para empresas, tem que usar ele em linux, para isso precisa instalar wsl
+
+-- 
+
+
+
